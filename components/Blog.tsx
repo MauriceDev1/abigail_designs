@@ -28,7 +28,7 @@ export default function Blog() {
               </div>
             </div>
             <div className='w-full flex justify-center pt-10'>
-                <button className='border border-red-500 px-5 py-1 text-red-500'>READ OUR BLOG</button>
+                <button className='border border-pink-300 px-5 py-1 text-pink-300'>READ OUR BLOG</button>
             </div>
         </div>
     </div>

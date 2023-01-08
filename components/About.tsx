@@ -24,23 +24,23 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 
             </div>
             <div className='flex w-10/12 sm:w-[16vw] pt-10 m-auto justify-between'>
-                <div className='w-8 sm:w-10 flex h-8 sm:h-10 rounded-full border border-pink-400'>
-                    <div className='m-auto text-pink-400'>
+                <div className='w-8 sm:w-10 flex h-8 sm:h-10 rounded-full border border-pink-300'>
+                    <div className='m-auto text-pink-300'>
                        <FaFacebookF />   
                     </div>
                 </div>
-                <div className='w-8 sm:w-10 flex h-8 sm:h-10 rounded-full border border-pink-400'>
-                    <div className='m-auto text-pink-400'>
+                <div className='w-8 sm:w-10 flex h-8 sm:h-10 rounded-full border border-pink-300'>
+                    <div className='m-auto text-pink-300'>
                        <FaTwitter />   
                     </div>
                 </div>
-                <div className='w-8 sm:w-10 flex h-8 sm:h-10 rounded-full border border-pink-400'>
-                    <div className='m-auto text-pink-400'>
+                <div className='w-8 sm:w-10 flex h-8 sm:h-10 rounded-full border border-pink-300'>
+                    <div className='m-auto text-pink-300'>
                        <FaInstagram />   
                     </div>
                 </div>
-                <div className='w-8 sm:w-10 flex h-8 sm:h-10 rounded-full border border-pink-400'>
-                    <div className='m-auto text-pink-400'>
+                <div className='w-8 sm:w-10 flex h-8 sm:h-10 rounded-full border border-pink-300'>
+                    <div className='m-auto text-pink-300'>
                        <FaTiktok />   
                     </div>
                 </div>
