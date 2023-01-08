@@ -8,6 +8,48 @@ export default function Portfolio() {
           <div className='flex py-5 w-full bg-red-100 my-10'>
             <button></button>
           </div>
+          <div className='flex flex-wrap w-full'>
+            <div className='w-1/4 p-2'>
+              <div className='w-full bg-gray-300 h-72'>
+                
+              </div>
+            </div>
+            <div className='w-1/4 p-2'>
+              <div className='w-full bg-gray-300 h-72'>
+                
+              </div>
+            </div>
+            <div className='w-1/4 p-2'>
+              <div className='w-full bg-gray-300 h-72'>
+                
+              </div>
+            </div>
+            <div className='w-1/4 p-2'>
+              <div className='w-full bg-gray-300 h-72'>
+                
+              </div>
+            </div>
+            <div className='w-1/4 p-2'>
+              <div className='w-full bg-gray-300 h-72'>
+                
+              </div>
+            </div>
+            <div className='w-1/4 p-2'>
+              <div className='w-full bg-gray-300 h-72'>
+                
+              </div>
+            </div>
+            <div className='w-1/4 p-2'>
+              <div className='w-full bg-gray-300 h-72'>
+                
+              </div>
+            </div>
+            <div className='w-1/4 p-2'>
+              <div className='w-full bg-gray-300 h-72'>
+                
+              </div>
+            </div>
+          </div>
       </div>
     </div>
   )

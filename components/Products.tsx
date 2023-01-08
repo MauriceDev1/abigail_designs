@@ -3,7 +3,7 @@ import { FaCamera, FaDesktop, FaInstagram, FaPaintBrush, FaWarehouse } from 'rea
 
 export default function Products() {
   return (
-    <div className='bg-black w-full py-20 flex justify-center' id="services">
+    <div className='bg-black bg-opacity-80 w-full py-20 flex justify-center' id="services">
         <div className='w-9/12'>
             <h1 className='text-center text-6xl text-white font-semibold'>WHAT I DO</h1>
             <div className='text-center text-white py-10'>
