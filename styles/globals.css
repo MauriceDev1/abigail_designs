@@ -14,3 +14,7 @@
   ::-ms-input-placeholder { /* Microsoft Edge */
    color: white;
   }
+
+  html {
+    scroll-behavior: smooth;
+  }

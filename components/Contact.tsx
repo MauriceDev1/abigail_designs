@@ -3,7 +3,7 @@ import { FaEnvelope, FaMapMarker, FaPhone } from 'react-icons/fa';
 
 export default function Contact() {
   return (
-    <div className='bg-green-400 py-20'>
+    <div className='bg-black py-20' id="contact">
         <div className='w-9/12 m-auto'>
             <h1 className='text-center text-6xl text-white font-semibold'>LET&#39;S GET IN TOUCH</h1>
             <div className='text-center text-white py-10'>
@@ -37,9 +37,9 @@ export default function Contact() {
                 </div>
               </div>
               <div className='gap-3 flex flex-wrap'>
-                <input type="text" name="name" className='w-full focus:outline-none p-2 bg-green-500 border-white text-white border-b-2' placeholder='Name'/>
-                <input type="email" name="email" className='w-full p-2 focus:outline-none bg-green-500 border-white text-white border-b-2' placeholder='Email'/>
-                <textarea name="message" className='w-full p-2 focus:outline-none h-48 bg-green-500 border-white text-white border-b-2' style={{resize:'none'}} />
+                <input type="text" name="name" className='w-full focus:outline-none p-2 bg-gray-900 border-white text-white border-b-2' placeholder='Name'/>
+                <input type="email" name="email" className='w-full p-2 focus:outline-none bg-gray-900 border-white text-white border-b-2' placeholder='Email'/>
+                <textarea name="message" className='w-full p-2 focus:outline-none h-48 bg-gray-900 border-white text-white border-b-2' style={{resize:'none'}} />
                 <div className='w-full flex justif-center pt-5'>
                   <button className='border px-5 py-1 text-white m-auto'>SUBMIT</button>
                 </div>
