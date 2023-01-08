@@ -7,6 +7,7 @@ import Blog from '../components/Blog'
 import Products from '../components/Products'
 import Testimonials from '../components/Testimonials'
 import Portfolio from '../components/Portfolio'
+import Footer from '../components/Footer'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -27,6 +28,7 @@ export default function Home() {
         <Testimonials />
         <Blog />
         <Contact />
+        <Footer />
       </main>
     </>
   )
